@@ -1,0 +1,14 @@
+{
+  "name": "can-citizenship-tracker",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "author": "Fatih Kilic",
+  "license": "Unlicense",
+  "private": true,
+  "dependencies": {
+    "deep-diff": "^1.0.2"
+  }
+}
